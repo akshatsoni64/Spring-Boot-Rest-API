@@ -22,11 +22,11 @@ CREATE DATABASE student;
 `
 
 - Inside /src/main/resources update the database credentials in the application.properties file <br>
-`
-spring.datasource.username= <username_here>
+```
+spring.datasource.username= <username_here> 
 
 spring.datasource.password= <password_here>
-`
+```
 
 - Install Maven dependencies for the project <br>
 `
